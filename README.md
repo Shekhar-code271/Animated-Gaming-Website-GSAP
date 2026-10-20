@@ -1,4 +1,4 @@
-# Pro-24 - Advanced GSAP Gaming Website
+Advanced GSAP Gaming Website
 
 A modern, immersive, and highly interactive web application template featuring fluid GSAP animations, dynamic video backgrounds, tilt-effect cards, and integrated audio controls.
 
